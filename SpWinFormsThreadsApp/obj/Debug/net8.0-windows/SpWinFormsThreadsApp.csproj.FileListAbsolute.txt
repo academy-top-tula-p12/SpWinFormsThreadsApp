@@ -1,0 +1,16 @@
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\bin\Debug\net8.0-windows\SpWinFormsThreadsApp.exe
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\bin\Debug\net8.0-windows\SpWinFormsThreadsApp.deps.json
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\bin\Debug\net8.0-windows\SpWinFormsThreadsApp.runtimeconfig.json
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\bin\Debug\net8.0-windows\SpWinFormsThreadsApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\bin\Debug\net8.0-windows\SpWinFormsThreadsApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.Form1.resources
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.csproj.GenerateResource.cache
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.AssemblyInfoInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.AssemblyInfo.cs
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.csproj.CoreCompileInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\refint\SpWinFormsThreadsApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\SpWinFormsThreadsApp.genruntimeconfig.cache
+D:\RPO\MaximEfimov\~P12\SP\SpWinFormsThreadsApp\SpWinFormsThreadsApp\obj\Debug\net8.0-windows\ref\SpWinFormsThreadsApp.dll
